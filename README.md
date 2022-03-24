@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alisha Naqvu
+- 👋 Hi, I’m Alisha Naqvi
 - 👀 I’m interested in AI, Machine Learnig,Programming Languagues and tech.
 - 🌱 I’m currently learning MATLAB and Python.
 - 💞️ I’m looking forward to collaborate on interesting projects.
